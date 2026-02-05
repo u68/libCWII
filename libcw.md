@@ -1,8 +1,8 @@
-# libcwii.h Guide 
+# libcwii.h/libcwx.h Guide 
 
 ## Scope and inclusion
 
-This document describes the declarations present in `libcwii.h` 
+This document describes the declarations present in `libcwii.h`/`libcwx.h`
 
 To use this API on cwii, include the header:
 
