@@ -1,20 +1,16 @@
-# libcwii.h/libcwx.h Guide 
+# libcw.h Guide
 
 ## Scope and inclusion
 
-This document describes the declarations present in `libcwii.h`/`libcwx.h`
+This document describes the declarations present in `libcw.h`
 
 To use this API on cwii, include the header:
 
 ```c
-#include "libcwii.h"
+#include "libcw.h"
 ```
 
-and for cwx:
-
-```c
-#include "libcwx.h"
-```
+(For CWX add `#define IS_CWX` ***BEFORE*** `#include "libcw.h"`)
 
 No additional includes are required for the examples in this document.
 
